@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Inicio</title>
+        <link rel="" href="./img/wall.png">
+    </head>
+
+    <body>
+        <hr>
+        <header>
+            <nav>
+                <a href="./Index.html">Inicio</a>
+                <a href="./Libre.html">Libre</a>
+                <a href="./Tablas.html">Tablas</a>
+            </nav>
+        </header>
+        <hr>
+        
+        <section>
+            <center>
+                <img src="./img/wall-e-icon.png" alt="wall-e-icon" width="500" height="500">
+                <div>
+                    <h3>WALL-E MY FAVORITE</h3>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/8zQDanUF2tc?loop=1" allowfullscreen></iframe>
+                </div>
+                <div> 
+                    <h2>
+                        Critica de la pelicula
+                        <p>
+                            <b>
+                                En medio de una trayectoria brillante con apenas algún
+                                borrón tras ya 25 películas, Pixar nos trajo lo que era
+                                <br> hasta ese momento su trabajo más original 
+                                (y aún sigue estando entre las más personales que nos han ofrecido)
+                                <br> con una historia sin diálogos en un planeta Tierra post-apocalíptico
+                                con un desplieque en el mundo de la animación absolutamente
+                                <br> demoledor, con un uso de los tonos tierra y ocre muy de películas 
+                                ambientadas en épocas futuras de paisajes devastados. Viéndola con el 
+                                <br> paso de los años, sigue resultando asombrosa catorce años después 
+                                desde el punto de vista técnico y visual, y lo único que en mi opinión 
+                                <br> le resta para ser más "grande" es el tramo final, que resulta más
+                                convencional y no tan sorprendente en lo visual como en la 
+                                <br> sobresaliente primera parte de la película.
+                            </b>
+                        </p>
+                    </h2>
+                </div>
+            </center>
+        </section>
+        
+    </body>
+</html>
